@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[scripts]
+designer = "C:\Users\vickc\.virtualenvs\lovers-gbmk5hlR\scripts\pyside6-designer"
+
+[packages]
+pyside6 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
